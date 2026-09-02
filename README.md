@@ -42,8 +42,8 @@ I regularly solve problems on:
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" />
+  <a href="(https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=black" width="40" height="40" />
   </a>
 
   <a href="https://github.com/RutujaAIML">
