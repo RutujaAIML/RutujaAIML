@@ -47,7 +47,7 @@ I regularly solve problems on:
   </a>
 
   <a href="https://github.com/RutujaAIML">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" />
   </a>
 </p>
 
