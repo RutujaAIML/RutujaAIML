@@ -41,7 +41,7 @@ I regularly solve problems on:
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- 💼 LinkedIn [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/rutujasangar/)
 
 
 ---
