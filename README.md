@@ -43,7 +43,7 @@ I regularly solve problems on:
 
 <p align="left">
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png)" width="40" height="40" />
+    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2]" width="40" height="40" />
   </a>
 
   <a href="https://github.com/RutujaAIML">
