@@ -43,8 +43,8 @@ I regularly solve problems on:
 
 <p align="left">
   <a href="(https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=black" width="40" height="40" />
-  </a>&nbsp;
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=black" width="40" height="40" hspace="10" />
+  </a>
   <a href="https://github.com/RutujaAIML">
     <img src="https://cdn.simpleicons.org/github" width="40" height="40" />
   </a>
