@@ -16,18 +16,8 @@
 ---
 
 ## 🛠️ Languages & Tools
-## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />🐍 Python  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
-</p>
-
-
+🐍 Python   
 🗄️ MySQL  
 📊 Pandas  
 🔢 NumPy  
@@ -51,9 +41,17 @@ I regularly solve problems on:
 
 ## 🔗 Connect With Me
 
-- 💼 [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/rutujasangar/)
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rutujasangar?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" />
+  </a>
 
+  <a href="https://github.com/RutujaAIML">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
